@@ -6,7 +6,7 @@ This repository implements **ACCO**, introduced in the paper:
 **"ACCO: Accumulate While You Communicate for Communication-Overlapped Sharded LLM Training"**
 
 Authors:  
-Adel Nabli¹², Louis Fournier¹\*, Pierre Erbacher¹\*, Louis Serrano¹, Eugene Belilovsky², Edouard Oyallon¹  
+Adel Nabli¹², Louis Fournier¹, Pierre Erbacher¹, Louis Serrano¹, Eugene Belilovsky², Edouard Oyallon¹  
 ¹Sorbonne Université, CNRS, ISIR — Paris, France  
 ²Mila — Quebec AI Institute, Concordia University — Montréal, Québec  
 📧 adel.nabli@sorbonne-universite.fr, edouard.oyallon@cnrs.fr
@@ -37,7 +37,7 @@ If you use this work, please cite:
 
 ACCO is a memory-efficient and communication-overlapping optimization algorithm for distributed LLM training. It decouples gradient synchronization and optimizer updates, reducing GPU idle time and supporting optimizer state sharding across heterogeneous clusters.
 
-Compared to ZeRO and other baselines:
+Compared to ZeRO:
 - ✅ Reduces communication bottlenecks  
 - ✅ Supports sharded optimizers  
 - ✅ Scales across heterogeneous hardware  
