@@ -9,7 +9,27 @@ Authors:
 Adel Nabli¹², Louis Fournier¹\*, Pierre Erbacher¹\*, Louis Serrano¹, Eugene Belilovsky², Edouard Oyallon¹  
 ¹Sorbonne Université, CNRS, ISIR — Paris, France  
 ²Mila — Quebec AI Institute, Concordia University — Montréal, Québec  
-📧 adel.nabli@sorbonne-universite.fr
+📧 adel.nabli@sorbonne-universite.fr, edouard.oyallon@cnrs.fr
+
+---
+
+## 📄 Citation
+
+If you use this work, please cite:
+
+```bibtex
+@misc{nabli2024accoaccumulatecommunicatehiding,
+  title={ACCO: Accumulate while you Communicate, Hiding Communications in Distributed LLM Training}, 
+  author={Adel Nabli and Louis Fournier and Pierre Erbacher and Louis Serrano and Eugene Belilovsky and Edouard Oyallon},
+  year={2024},
+  eprint={2406.02613},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  url={https://arxiv.org/abs/2406.02613}
+}
+```
+
+📎 [View the paper on arXiv](https://arxiv.org/abs/2406.02613)
 
 ---
 
