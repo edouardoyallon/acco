@@ -1,0 +1,3 @@
+
+path: "tatsu-lab/alpaca" #load from hf hub
+# 50 000 / (8x16)

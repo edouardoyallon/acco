@@ -1,0 +1,12 @@
+# config file
+defaults:
+  - data: openwebtext
+  - train: acco
+  - model: gptneo
+
+seed: 12345
+run_name: 'acco'
+
+hydra:
+  run:
+    dir: "./outputs/${now:%Y-%m-%d}/${now:%H-%M-%S}"

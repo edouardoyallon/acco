@@ -1,0 +1,3 @@
+
+config_path: "/config/model/gpt-neo-125M.json"
+tokenizer: "EleutherAI/gpt-neo-125M" # path or load from hub
