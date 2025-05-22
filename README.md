@@ -18,14 +18,14 @@ Adel Nabli¹², Louis Fournier¹, Pierre Erbacher¹, Louis Serrano¹, Eugene Bel
 If you use this work, please cite:
 
 ```bibtex
-@misc{nabli2024accoaccumulatecommunicatehiding,
-  title={ACCO: Accumulate while you Communicate, Hiding Communications in Distributed LLM Training}, 
-  author={Adel Nabli and Louis Fournier and Pierre Erbacher and Louis Serrano and Eugene Belilovsky and Edouard Oyallon},
-  year={2024},
-  eprint={2406.02613},
-  archivePrefix={arXiv},
-  primaryClass={cs.LG},
-  url={https://arxiv.org/abs/2406.02613}
+@misc{nabli2025accoaccumulatecommunicatecommunicationoverlapped,
+      title={ACCO: Accumulate While You Communicate for Communication-Overlapped Sharded LLM Training}, 
+      author={Adel Nabli and Louis Fournier and Pierre Erbacher and Louis Serrano and Eugene Belilovsky and Edouard Oyallon},
+      year={2025},
+      eprint={2406.02613},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2406.02613}, 
 }
 ```
 
